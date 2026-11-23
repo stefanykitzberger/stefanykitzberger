@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=180&section=header&text=St%C3%A9fany%20Kitzberger&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20AI%20agents%20and%20automations&descSize=18&descAlignY=58" alt="Stéfany Kitzberger" width="100%" />
-</p>
+# Hi, I'm Stéfany 👋
 
 Full-stack developer building AI agents & automations — Angular · Ruby on Rails.
 
@@ -20,16 +18,6 @@ Coming soon: a toolkit of AI agent skills for software development.
 
 [![Stack](https://skillicons.dev/icons?i=angular,ts,ruby,rails,nodejs,cypress,git)](https://skillicons.dev)
 
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanykitzberger/stefanykitzberger/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stefanykitzberger/stefanykitzberger/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/stefanykitzberger/stefanykitzberger/output/pacman-contribution-graph.svg">
-</picture>
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stefanykitzberger&bg_color=0d1117&color=c9d1d9&line=7F5AF0&point=2CB67D&area=true&area_color=7F5AF0&hide_border=true)](https://github.com/stefanykitzberger)
-
 ## Studies
 
 University and course projects (Software Engineering @ Católica SC) live in [stefanykitzberger-study](https://github.com/stefanykitzberger-study).
@@ -38,5 +26,3 @@ University and course projects (Software Engineering @ Católica SC) live in [st
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefany-kitzberger-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kitzbergerstefany@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=100&section=footer" width="100%" />
