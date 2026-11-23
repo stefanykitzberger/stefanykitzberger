@@ -16,7 +16,18 @@ Coming soon: a toolkit of AI agent skills for software development.
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=angular,ts,ruby,rails,nodejs,cypress,git)](https://skillicons.dev)
+**Angular · TypeScript · Ruby on Rails · Node.js · MySQL · Cypress · Git**
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" height="40" />
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="40" />
+<img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" title="Ruby" height="40" />
+<img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" title="Ruby on Rails" height="40" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="40" />
+<img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" title="Cypress" height="40" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="40" />
+</p>
 
 ## Studies
 
