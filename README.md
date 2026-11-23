@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=180&section=header&text=St%C3%A9fany%20Kitzberger&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20AI%20agents%20%26%20automations&descSize=18&descAlignY=58" alt="Stéfany Kitzberger" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=180&section=header&text=St%C3%A9fany%20Kitzberger&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20AI%20agents%20and%20automations&descSize=18&descAlignY=58" alt="Stéfany Kitzberger" width="100%" />
 </p>
 
 Full-stack developer building AI agents & automations — Angular · Ruby on Rails.
