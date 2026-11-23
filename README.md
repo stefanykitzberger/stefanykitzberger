@@ -8,15 +8,11 @@ Full-stack developer building AI agents & automations — Angular · Ruby on Rai
 - **Full-stack:** Angular and Ruby on Rails, including 2D computer graphics.
 - **AI-assisted engineering:** I turn repetitive engineering work into agentic workflows, with AI agents that review, implement and test, plus checks that prove the work.
 
-Currently at [Molde.me](https://molde.me), a SaaS CAD for the apparel industry. That code is private, so this profile is where my own projects will live.
+Full-stack Developer at [Molde.me](https://molde.me), a SaaS CAD platform for the fashion industry.
 
 ## Featured work
 
-> 🚧 Coming soon: a toolkit of AI agent skills for software development.
-
-## Now learning
-
-Data: SQL and pipelines, the layer that feeds AI systems.
+In progress: a toolkit of AI agent skills for software development.
 
 ## Stack
 
