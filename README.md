@@ -10,10 +10,6 @@ Full-stack developer building AI agents & automations — Angular · Ruby on Rai
 
 Full-stack Developer at [Molde.me](https://molde.me), a SaaS CAD platform for the fashion industry.
 
-## Featured work
-
-Coming soon: a toolkit of AI agent skills for software development.
-
 ## Stack
 
 **Angular · TypeScript · Ruby on Rails · Node.js · MySQL · Cypress · Git**
